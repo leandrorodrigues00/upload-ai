@@ -31,7 +31,7 @@ This project is powered by a range of cutting-edge technologies, including the V
 - [Shadcn/ui](https://ui.shadcn.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vercel AI SDK](https://github.com/vercel/ai)
-- [Vite.js](https://nextjs.org/)
+- [Vite.js](https://vitejs.dev/)
 - [Zod](https://github.com/colinhacks/zod)
 
 ## 💻 Getting started
