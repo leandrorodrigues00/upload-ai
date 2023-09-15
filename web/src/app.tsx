@@ -48,10 +48,15 @@ export function App() {
             Developed with ❤️ in Rocketseat's NLW.
           </span>
           <Separator orientation="vertical" className="h-6" />
-          <Button variant={'outline'}>
+
+          <a
+            href="https://github.com/leandrorodrigues00"
+            target="_blank"
+            className="h-9 px-4 py-2 inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50  border border-input bg-transparent shadow-sm hover:bg-accent hover:text-accent-foreground"
+          >
             <Github className="w-4 h-4 mr-2" />
             Github
-          </Button>
+          </a>
         </div>
       </div>
 
