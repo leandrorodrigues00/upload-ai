@@ -46,14 +46,15 @@ This project is powered by a range of cutting-edge technologies, including the V
 
 ```bash
 $ git clone https://github.com/leandrorodrigues00/upload-ai && cd upload-ai
-
 ```
 
 **Follow the steps below to start the server**
 
 ```bash
-# Install the dependencies
+# Navigate to the server folder
 $ cd server
+
+# Install the dependencies
 $ npm i
 
 # Make a copy of '.env.example' to '.env'
@@ -69,11 +70,13 @@ $ npm run dev
 # Your server will be available at the URL http://localhost:3333
 ```
 
-**Follow the steps below to start the web application**
+**Follow the steps below to start the web application -- server should already be running**
 
 ```bash
+# Navigate to the web folder
+$ cd web
+
 # Install the dependencies
-$ cd upload-ai\web
 $ npm i
 
 # Start the app
