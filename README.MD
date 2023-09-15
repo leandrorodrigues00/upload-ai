@@ -70,10 +70,10 @@ $ npm run dev
 # Your server will be available at the URL http://localhost:3333
 ```
 
-**Follow the steps below to start the web application -- server should already be running**
+**Follow the steps below to start the web application**
 
 ```bash
-# Navigate to the web folder
+# Navigate to the web folder in a new terminal
 $ cd web
 
 # Install the dependencies
